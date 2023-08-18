@@ -29,7 +29,7 @@ Locate those places in the website through the Google Maps which are close to th
 - Clone the project
 
 ```bash
-  
+  git clone https://github.com/SvelteMiscreant/SaniJunk.git
 ```
 
 
